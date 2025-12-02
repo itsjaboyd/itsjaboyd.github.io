@@ -12,29 +12,27 @@
 
 [[main]]
   name = "About"
+  title = "More about Jason"
   pageRef = "about"
   weight = 1
 
 [[main]]
   name = "Contact"
+  title = "Reach out and connect!"
   pageRef = "contact"
   weight = 2
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Christmas"
+  title = "Christmas Wish List"
+  pageRef = "christmas"
   weight = 3
 
-[[main]]
-  name = "Slashes"
-  pageRef = "slashes"
-  weight = 4
-
-[[main]]
-  pre = "github"
-  # name = "GitHub"
-  url = "https://github.com/itsjaboyd"
-  weight = 5
+#[[main]]
+#  pre = "github"
+#  # name = "GitHub"
+#  url = "https://github.com/itsjaboyd"
+#  weight = 6
 
 
 #[[main]]

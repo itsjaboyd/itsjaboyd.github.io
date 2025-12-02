@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jason Boyd</title>
+    <title>Homepage on Jason Boyd</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Jason Boyd</description>
+    <description>Recent content in Homepage on Jason Boyd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>jason.willes.boyd@gmail.com (Jason Boyd)</managingEditor>
     <webMaster>jason.willes.boyd@gmail.com (Jason Boyd)</webMaster>
     <copyright>© 2025 Jason Boyd</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jason&#39;s Christmas Wish List</title>
+      <link>http://localhost:1313/christmas/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <author>jason.willes.boyd@gmail.com (Jason Boyd)</author>
+      <guid>http://localhost:1313/christmas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <author>jason.willes.boyd@gmail.com (Jason Boyd)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <author>jason.willes.boyd@gmail.com (Jason Boyd)</author>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

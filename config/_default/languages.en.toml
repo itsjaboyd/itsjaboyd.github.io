@@ -9,10 +9,10 @@ title = "Jason Boyd"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/default-pfp.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "img/signature-gray.png"
+  secondaryLogo = "img/signature-gray.png"
   description = "Jason Boyd's personal website."
-  # copyright = "Copy, _right?_ :thinking_face:"
+  # copyright = "{year} Copyright - Jason Boyd"
 
 [params.author]
   name = "Jason Boyd"
@@ -20,7 +20,7 @@ title = "Jason Boyd"
   image = "img/default-pfp.png"
   imageQuality = 96
   headline = "Jason Boyd"
-  bio = "A little bit about you"
+  bio = ""
   links = [
     { email = "mailto:jason.willes.boyd@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
