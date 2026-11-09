@@ -25,3 +25,7 @@ I have deep experience in manufacturing execution software, but also spend time 
 Outside of a professional setting, you will usually find me active and outside from weight lifting, to exploring the mountains, or adventuring on my motorcycle. I also enjoy working on personal projects learning something new or designing solutions to real problems.
 </div>
 
+<div class="section">
+
+Want a copy of my resume? [Send me an email request](mailto:info@jasonwboyd.com) and I will send it over.
+</div>
