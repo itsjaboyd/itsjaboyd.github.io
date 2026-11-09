@@ -11,67 +11,46 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  title = "More about Jason"
-  pageRef = "about"
-  weight = 1
+  name = "Projects"
+  weight = 10
 
 [[main]]
-  name = "Contact"
-  title = "Reach out and connect!"
-  pageRef = "contact"
-  weight = 2
+  name = "Main Projects"
+  parent = "Projects"
+  pageRef = "projects"
+  weight = 15
 
 [[main]]
-  name = "Christmas"
-  title = "Christmas Wish List"
-  pageRef = "christmas"
-  weight = 3
+  name = "Mini Projects"
+  parent = "Projects"
+  pageRef = "miniprojects"
+  weight = 15
 
-#[[main]]
-#  pre = "github"
-#  # name = "GitHub"
-#  url = "https://github.com/itsjaboyd"
-#  weight = 6
+[[main]]
+  name = "Articles"
+  pageRef = "articles"
+  weight = 20
 
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
+# 
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
+# [[subnavigation]]
+#   name = "An interesting topic"
+#   pageRef = "tags/interesting-topic"
+#   weight = 10
+# 
+# [[subnavigation]]
+#   name = "My Awesome Category"
+#   pre = "github"
+#   pageRef = "categories/awesome"
+#   weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
