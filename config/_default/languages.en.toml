@@ -11,7 +11,7 @@ title = "Jason Boyd"
   dateFormat = "2006-01-02"
   logo = "img/signature-gray.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "My personal portfolio and content website."
   copyright = "© 2026 Jason Boyd. All rights reserved."
 
 [params.author]
@@ -20,13 +20,13 @@ title = "Jason Boyd"
   image = "img/blowfish_logo.png"
   imageQuality = 96
   headline = "Software, manufacturing, and living active."
-  bio = "A little bit about you"
+  bio = "Software, manufacturing, and living active."
   links = [
     { email = "mailto:hello@jasonwboyd.com" },
     { github = "https://github.com/itsjaboyd" },
     { printables = "https://www.printables.com/@jasonwboyd_5159448"},
-    { linkedin = "https://linkedin.com/in/username" },
-    { spotify = "https://open.spotify.com/user/userid" },
+    { linkedin = "https://www.linkedin.com/in/jasonboyd27/" },
+    { spotify = "https://open.spotify.com/user/12155592079" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { link = "https://link-to-some-website.com/" },
     # { apple = "https://www.apple.com" },
